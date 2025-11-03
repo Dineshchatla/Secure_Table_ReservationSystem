@@ -1,4 +1,4 @@
-    # Secure Table Reservation System (Basic)
+    # Secure Table Reservation System 
 
 
     ## Overview
